@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: CompilationRelaxations(8)]
 [assembly: RuntimeCompatibility(WrapNonExceptionThrows = true)]
 [assembly: Debuggable(DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
-[assembly: AssemblyTitle("PlayHome Launcher")]
+[assembly: AssemblyTitle("HoneySelect Launcher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SmokeOfC & ScrewThisNoise")]
