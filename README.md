@@ -1,7 +1,7 @@
 # HoneySelectLaucher
 A launcher for the Japanese adult game HoneySelect
 
-![Screenshot](https://i.imgur.com/lihFJBC.png "Screenshot")
+![Screenshot](https://i.imgur.com/KBtYDYc.png "Screenshot")
 
 # Features
 - Updates the registry with the correct path if it sees the HoneySelect_32.exe or HoneySelect_64.exe file in the same folder.
