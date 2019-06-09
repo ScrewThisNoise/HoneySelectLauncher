@@ -32,8 +32,10 @@
             Source="images/Chara.png" 
             Margin="607.768,193.042,0,0"/>
         <Image HorizontalAlignment="Left" Height="7.021" Margin="177.997,169.333,0,0" VerticalAlignment="Top" Width="68.75" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="7.021" Margin="448.997,169.333,0,0" VerticalAlignment="Top" Width="114.917" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill"/>
         <Image HorizontalAlignment="Left" Height="6.1" Margin="11.5,7.375,0,0" VerticalAlignment="Top" Width="47.376" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill"/>
-        <Image HorizontalAlignment="Left" Height="9.287" Margin="17,167.067,0,0" VerticalAlignment="Top" Width="108.876" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="7.787" Margin="17,167.067,0,0" VerticalAlignment="Top" Width="108.876" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="6.313" Margin="17,366.374,0,0" VerticalAlignment="Top" Width="69.543" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill"/>
         <Image HorizontalAlignment="Left" Height="7.804" Margin="13,480.801,0,0" VerticalAlignment="Top" Width="154.578" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill" Visibility="Hidden"/>
         <Image HorizontalAlignment="Left" Height="67.148" Margin="7.786,488.605,0,0" VerticalAlignment="Top" Width="577.134" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill" Visibility="Hidden"/>
         <Image HorizontalAlignment="Left" Height="149.163" Margin="6.392,13.475,0,0" VerticalAlignment="Top" Width="847.572" Source="images/transBG.png" StretchDirection="UpOnly" Stretch="Fill"/>
