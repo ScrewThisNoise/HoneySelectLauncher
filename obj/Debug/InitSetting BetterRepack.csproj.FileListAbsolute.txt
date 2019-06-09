@@ -1,0 +1,30 @@
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\MainWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\MessageWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\App.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\MainWindow.baml
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\MessageWindow.baml
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack.csproj.CoreCompileInputs.cache
+F:\usrdata\Desktop\KK Init\InitSetting\bin\Debug\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSetting\bin\Debug\InitSetting BetterRepack.pdb
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack_MarkupCompile.cache
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack_MarkupCompile.lref
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack.g.resources
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack.pdb
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack_Content.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Debug\InitSetting BetterRepack.csprojAssemblyReference.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\bin\Debug\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\bin\Debug\InitSetting BetterRepack.pdb
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack.csprojAssemblyReference.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\MainWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\MessageWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\App.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack_Content.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack_MarkupCompile.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack_MarkupCompile.lref
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\MainWindow.baml
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\MessageWindow.baml
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack.g.resources
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack.csproj.CoreCompileInputs.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Debug\InitSetting BetterRepack.pdb

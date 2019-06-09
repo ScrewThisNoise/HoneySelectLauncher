@@ -1,0 +1,30 @@
+F:\usrdata\Desktop\KK Init\InitSetting\bin\Release\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSetting\bin\Release\InitSetting BetterRepack.pdb
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\MainWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\MessageWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\App.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack_Content.g.cs
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack_MarkupCompile.cache
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack_MarkupCompile.lref
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\MainWindow.baml
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\MessageWindow.baml
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack.g.resources
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack.csproj.CoreCompileInputs.cache
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack.pdb
+F:\usrdata\Desktop\KK Init\InitSetting\obj\Release\InitSetting BetterRepack.csprojAssemblyReference.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\bin\Release\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\bin\Release\InitSetting BetterRepack.pdb
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack.csprojAssemblyReference.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\MainWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\MessageWindow.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\App.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack_Content.g.cs
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack_MarkupCompile.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack_MarkupCompile.lref
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\MainWindow.baml
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\MessageWindow.baml
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack.g.resources
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack.csproj.CoreCompileInputs.cache
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack.exe
+F:\usrdata\Desktop\KK Init\InitSettingBRTest\obj\Release\InitSetting BetterRepack.pdb
