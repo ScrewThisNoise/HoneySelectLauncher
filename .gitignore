@@ -291,3 +291,4 @@ __pycache__/
 lib/*
 /ConfigurationManager/ConfigurationManager.csproj.DotSettings
 PostBuild.bat
+obj/*
