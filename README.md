@@ -1,3 +1,6 @@
+# NO LONGER MAINTAINED!
+Project integrated into IllusionLaunchers, you can find the current launcher at https://github.com/IllusionMods/IllusionLaunchers
+
 # HoneySelectLaucher
 A launcher for the Japanese adult game HoneySelect
 
